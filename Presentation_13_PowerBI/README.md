@@ -2,7 +2,7 @@
 # 📊 Presentation 13 – Power BI : Analyse des ventes et Budget
 
 ## 👤 Réalisé par :
-Hafsa Ait El Atik - Chaimaa ELQOUBAA 
+Hafsa AIT EL ATIK - Chaimaa ELQOUBAA 
 Encadré par : Pr.Lotfi Najdi
 
 ---
@@ -66,9 +66,9 @@ Créer un tableau de bord interactif Power BI basé sur un jeu de données réel
 
 ## 📷 Aperçu
 
-![Star Schema](./assets/star_schema.png)  
-![Dashboard](./assets/dashboard_sales.png)
-![Dashboard budget](./assets/dashboard_budget.png)
+![Star Schema](./docs/star_schema.png)  
+![Dashboard sales](./docs/dashboard_sales.png)
+![Dashboard budget](./docs/dashboard_budget.png)
 
 ---
 
