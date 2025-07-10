@@ -67,7 +67,7 @@ Créer un tableau de bord interactif Power BI basé sur un jeu de données réel
 ## 📷 Aperçu
 
 ![Star Schema](./docs/star_schema.png)  
-![Dashboard sales](./docs/dashboard_sales.png)
+![Dashboard sales](./docs/dashoabrd_budget.png)
 ![Dashboard budget](./docs/dashboard_budget.png)
 
 ---
